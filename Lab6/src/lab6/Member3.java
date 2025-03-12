@@ -8,7 +8,7 @@ package lab6;
  *
  * @author mayaparsons
  */
-public class FeatureMember3 {
+public class Member3 {
 
     /**
      * @param args the command line arguments
